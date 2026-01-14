@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768287408867,
+  "timestamp": 1768367348440,
   "index": "https://rriet.github.io/swaflight/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://rriet.github.io/swaflight/favicon.ico",
         "https://rriet.github.io/swaflight/index.html",
-        "https://rriet.github.io/swaflight/main.d1607eb383104b5f.js",
+        "https://rriet.github.io/swaflight/main.1bc3d54065daacac.js",
         "https://rriet.github.io/swaflight/manifest.webmanifest",
         "https://rriet.github.io/swaflight/polyfills.9e94d107597711e7.js",
         "https://rriet.github.io/swaflight/runtime.7c07de4f84e48b38.js",
-        "https://rriet.github.io/swaflight/styles.2dcfe51516e2db03.css"
+        "https://rriet.github.io/swaflight/styles.e4b9b7d93b2e2d3e.css"
       ],
       "patterns": []
     },
@@ -42,6 +42,7 @@
         "https://rriet.github.io/swaflight/assets/img/add_circle.svg",
         "https://rriet.github.io/swaflight/assets/img/bars-solid.svg",
         "https://rriet.github.io/swaflight/assets/img/book.svg",
+        "https://rriet.github.io/swaflight/assets/img/close.svg",
         "https://rriet.github.io/swaflight/assets/img/content_copy.svg",
         "https://rriet.github.io/swaflight/assets/img/content_paste.svg",
         "https://rriet.github.io/swaflight/assets/img/day.svg",
@@ -56,6 +57,7 @@
         "https://rriet.github.io/swaflight/assets/img/skip_previous.svg",
         "https://rriet.github.io/swaflight/assets/img/speed.svg",
         "https://rriet.github.io/swaflight/assets/img/takeoff.svg",
+        "https://rriet.github.io/swaflight/assets/img/timer.svg",
         "https://rriet.github.io/swaflight/assets/img/weight.svg",
         "https://rriet.github.io/swaflight/assets/js/pdf.js",
         "https://rriet.github.io/swaflight/assets/js/pdf.js.map",
@@ -86,6 +88,7 @@
     "https://rriet.github.io/swaflight/assets/img/add_circle.svg": "b30496f655ddc29029ab7480e88148e0d58e16ad",
     "https://rriet.github.io/swaflight/assets/img/bars-solid.svg": "67fbd9e03630cbfc91c9aea8be7d33c9c255986b",
     "https://rriet.github.io/swaflight/assets/img/book.svg": "e740f59dbfe44d016edc2c63f15c2367e94dabb4",
+    "https://rriet.github.io/swaflight/assets/img/close.svg": "faf64bc92bd88a1d17d0adbe8c9ae2b493c335a0",
     "https://rriet.github.io/swaflight/assets/img/content_copy.svg": "2058e8642ca3bdc4b1522d09b930e3ff6c88ada4",
     "https://rriet.github.io/swaflight/assets/img/content_paste.svg": "11c694ebb4e844c0f4a6f9ad6b10870a27556cee",
     "https://rriet.github.io/swaflight/assets/img/day.svg": "acbff83d00c831f842e06d07023bc2e02f97eada",
@@ -100,6 +103,7 @@
     "https://rriet.github.io/swaflight/assets/img/skip_previous.svg": "7b52f71574ebf5493da85eafd5793215d9352f51",
     "https://rriet.github.io/swaflight/assets/img/speed.svg": "5bc6721fdc5034cf6711bc561b7b6e29326cff6c",
     "https://rriet.github.io/swaflight/assets/img/takeoff.svg": "8e7a53a4ac157ca88224a4fe993c228b3fa33ca3",
+    "https://rriet.github.io/swaflight/assets/img/timer.svg": "565d0eb96b8d9a0efcc3e671b97af11aa44381b3",
     "https://rriet.github.io/swaflight/assets/img/weight.svg": "f550cd2573dc271d84e144172b28bff0f857bbce",
     "https://rriet.github.io/swaflight/assets/js/pdf.js": "77072fb3e94b3549cb061aade17244d84cda6165",
     "https://rriet.github.io/swaflight/assets/js/pdf.js.map": "d8d25188f3eccbde298e98c7a4db3af33f471e7b",
@@ -112,12 +116,12 @@
     "https://rriet.github.io/swaflight/assets/js/pdf.worker.js.map": "e38da7ce86d05d4068f4c1ebf59ebe6d9b25f880",
     "https://rriet.github.io/swaflight/assets/js/pdf.worker.min.js": "f4bd88c4ec12725ebc546666668e322924985a61",
     "https://rriet.github.io/swaflight/favicon.ico": "bfbb080c429e9378d25dbe75f80065cca3dc8bde",
-    "https://rriet.github.io/swaflight/index.html": "893511d57a5324a87c6349e7256f88b5619f7634",
-    "https://rriet.github.io/swaflight/main.d1607eb383104b5f.js": "24ca033b4a79dab37cba56c7552e12039a9a6140",
+    "https://rriet.github.io/swaflight/index.html": "1e49a8b786feb65e173c8668be745cb38f18de5f",
+    "https://rriet.github.io/swaflight/main.1bc3d54065daacac.js": "29d5f994ba6da640b1b29f2acf7590c7b4b91322",
     "https://rriet.github.io/swaflight/manifest.webmanifest": "14a64a9ca7c7268e60f50fb3fc6325e33fdaf61e",
     "https://rriet.github.io/swaflight/polyfills.9e94d107597711e7.js": "631f80b5987b6ef074eced62b97436e3c2d7a855",
     "https://rriet.github.io/swaflight/runtime.7c07de4f84e48b38.js": "c3de62bd3b60b2614b821a216cdee70d6f7fedc0",
-    "https://rriet.github.io/swaflight/styles.2dcfe51516e2db03.css": "e2ffc3290e4cc017368c02e7ae0a7ab7832419f7"
+    "https://rriet.github.io/swaflight/styles.e4b9b7d93b2e2d3e.css": "c71ae8f87782991ec4de128a9f675dcd0ce013cf"
   },
   "navigationUrls": [
     {
