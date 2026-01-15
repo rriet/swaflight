@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1768448995391,
+  "timestamp": 1768449363903,
   "index": "https://rriet.github.io/swaflight/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://rriet.github.io/swaflight/manifest.webmanifest",
         "https://rriet.github.io/swaflight/polyfills.9e94d107597711e7.js",
         "https://rriet.github.io/swaflight/runtime.7c07de4f84e48b38.js",
-        "https://rriet.github.io/swaflight/styles.c51e001276c0fa48.css"
+        "https://rriet.github.io/swaflight/styles.9ddcb6a8da3b2391.css"
       ],
       "patterns": []
     },
@@ -116,12 +116,12 @@
     "https://rriet.github.io/swaflight/assets/js/pdf.worker.js.map": "e38da7ce86d05d4068f4c1ebf59ebe6d9b25f880",
     "https://rriet.github.io/swaflight/assets/js/pdf.worker.min.js": "f4bd88c4ec12725ebc546666668e322924985a61",
     "https://rriet.github.io/swaflight/favicon.ico": "bfbb080c429e9378d25dbe75f80065cca3dc8bde",
-    "https://rriet.github.io/swaflight/index.html": "685120fb00004ce1efd6cd478f54cfb6ea0af753",
+    "https://rriet.github.io/swaflight/index.html": "b9464a4256280cb748d21bb0e1180e6a26b9ceff",
     "https://rriet.github.io/swaflight/main.dc21cf581eff3248.js": "c1a73b1e148a68915fcc3954f9c5b64b5ec36507",
     "https://rriet.github.io/swaflight/manifest.webmanifest": "14a64a9ca7c7268e60f50fb3fc6325e33fdaf61e",
     "https://rriet.github.io/swaflight/polyfills.9e94d107597711e7.js": "631f80b5987b6ef074eced62b97436e3c2d7a855",
     "https://rriet.github.io/swaflight/runtime.7c07de4f84e48b38.js": "c3de62bd3b60b2614b821a216cdee70d6f7fedc0",
-    "https://rriet.github.io/swaflight/styles.c51e001276c0fa48.css": "acd6d3fafc0ff70e5020dc9fccce25fbf88b4192"
+    "https://rriet.github.io/swaflight/styles.9ddcb6a8da3b2391.css": "d7dea3c5f8149f79f84be873b7604fda7570f0b9"
   },
   "navigationUrls": [
     {
